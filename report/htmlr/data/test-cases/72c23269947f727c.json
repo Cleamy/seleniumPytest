@@ -1,0 +1,60 @@
+{
+  "uid" : "72c23269947f727c",
+  "name" : "test_valid_string[stringinput0]",
+  "fullName" : "fix.test_string#test_valid_string",
+  "historyId" : "ad3851dbe4ddc9a0b7d48677f53edd29",
+  "time" : {
+    "start" : 1712324688741,
+    "stop" : 1712324688741,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: got empty parameter set ['stringinput'], function test_valid_string at D:\\Compile\\python\\pythonProject1\\seleniumPytest\\fix\\test_string.py:3",
+  "statusTrace" : "('D:\\\\Compile\\\\python\\\\pythonProject1\\\\seleniumPytest\\\\fix\\\\test_string.py', 4, \"Skipped: got empty parameter set ['stringinput'], function test_valid_string at D:\\\\Compile\\\\python\\\\pythonProject1\\\\seleniumPytest\\\\fix\\\\test_string.py:3\")",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reason='got empty parameter set ['stringinput'], function test_valid_string at D:\\Compile\\python\\pythonProject1\\seleniumPytest\\fix\\test_string.py:3')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "fix"
+  }, {
+    "name" : "suite",
+    "value" : "test_string"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-3ENF850T"
+  }, {
+    "name" : "thread",
+    "value" : "11032-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "fix.test_string"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "stringinput",
+    "value" : "<NotSetType.token: 0>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip(reason='got empty parameter set ['stringinput'], function test_valid_string at D:\\Compile\\python\\pythonProject1\\seleniumPytest\\fix\\test_string.py:3')" ]
+  },
+  "source" : "72c23269947f727c.json",
+  "parameterValues" : [ "<NotSetType.token: 0>" ]
+}

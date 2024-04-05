@@ -1,0 +1,155 @@
+{
+  "0c51ba404f4f01642f70285e818bad9b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c46e9173c2ae26bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712324688735,
+        "stop" : 1712324688735,
+        "duration" : 0
+      }
+    } ]
+  },
+  "10686a2cdb6b7fdf8739b5a3d2b079fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "28d04642fdb7d180",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712324688741,
+        "stop" : 1712324688741,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ad3851dbe4ddc9a0b7d48677f53edd29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72c23269947f727c",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: got empty parameter set ['stringinput'], function test_valid_string at D:\\Compile\\python\\pythonProject1\\seleniumPytest\\fix\\test_string.py:3",
+      "time" : {
+        "start" : 1712324688741,
+        "stop" : 1712324688741,
+        "duration" : 0
+      }
+    } ]
+  },
+  "86d3e5b9c56f5afc6b8f6975538e77ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45f07357d4e0c65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712324688729,
+        "stop" : 1712324688729,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bb7f1f71509ed484875b81be79c0bfa3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c46cd8ba50570a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712324688731,
+        "stop" : 1712324688731,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a23a379f8d01f343308c2f80b74eeaf6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edd225ed4866b34b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712324688735,
+        "stop" : 1712324688735,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c3f94b651dfea3af9a60b84c95d54fc1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3d3cf74037e1194",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712324688735,
+        "stop" : 1712324688735,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f0ef5c67d066409d9c82914ba7e1fdc0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "638f4c370f65016",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712324688735,
+        "stop" : 1712324688735,
+        "duration" : 0
+      }
+    } ]
+  }
+}
